@@ -1,7 +1,6 @@
-Design Rationale — Sri Sai Men's Hair Saloon Website
+**Design Rationale — Sri Sai Men's Hair Saloon Website**
 
-
-Why This Business
+**Why This Business :**
 
 I picked a local hair saloon because most of them have zero 
 online presence. People find out about them only through 
@@ -10,7 +9,7 @@ actually bring them more customers and that is what I tried
 to solve with this project.
 
 
-Color Choices
+**Color Choices :**
 
 I went with bold colors like Saffron Orange, Hot Magenta and 
 Cobalt Blue on a dark background. I wanted it to feel premium 
@@ -19,7 +18,7 @@ because it is warm and inviting. The dark background makes
 everything pop and gives it a high end feel without being boring.
 
 
-Font Choices
+**Font Choices :**
 
 I tried a few combinations and landed on these three.
 Playfair Display for the main headings because it looks classy.
@@ -27,7 +26,7 @@ Bebas Neue for labels and section titles because it is bold and punchy.
 DM Sans for the body text because it is clean and easy to read.
 
 
-Homepage
+**Homepage :**
 
 The first thing I thought about was what does a visitor need 
 to see in the first 5 seconds. So I kept the hero section 
@@ -41,7 +40,7 @@ below because people trust numbers. If someone sees that
 about walking in.
 
 
-Services Section
+**Services Section :**
 
 I only showed 3 services on the homepage on purpose. 
 Showing everything at once can overwhelm people. The idea 
@@ -51,7 +50,7 @@ description, enough for someone to decide if they are
 interested.
 
 
-Why Choose Us Section
+**Why Choose Us Section :**
 
 This part was about building trust. Instead of just listing 
 features I split it into a quote on the left and 4 simple 
@@ -60,7 +59,7 @@ points answer the most common questions people have before
 visiting a new saloon.
 
 
-Testimonials
+**Testimonials :**
 
 I added reviews with names and star ratings because people 
 always check reviews before trying somewhere new. The 
@@ -68,7 +67,7 @@ carousel keeps it compact and the auto scroll makes the
 page feel alive without being distracting.
 
 
-Contact and Booking Page
+**Contact and Booking Page :**
 
 I wanted booking to feel as easy as ordering food online. 
 So instead of a plain form I added time slot buttons so 
@@ -81,7 +80,7 @@ Tuesday is marked in red as a Holiday so there is no
 confusion and customers do not show up on a closed day.
 
 
-Mobile Design
+**Mobile Design :**
 
 A lot of local saloon customers are on their phones so I 
 made sure everything works well on smaller screens. The 
@@ -90,7 +89,7 @@ matter where you are on the page you can always take
 action in one tap.
 
 
-What I Learned
+**What I Learned :**
 
 This project taught me how to think from a customers 
 perspective rather than just making things look nice. 
