@@ -50,11 +50,6 @@ imports folder contains the dependencies.
 styles folder contains the styling files.
 
 
-**Repository Link :**
-https://github.com/jairajnahata/FUTURE_UX_01
-
-
 **Author :**
-
 Jai Raj Nahata
 UI/UX Design Intern, Future Interns 2026
