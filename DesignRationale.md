@@ -89,7 +89,7 @@ matter where you are on the page you can always take
 action in one tap.
 
 
-**What I Learned :**
+**What I Learnt :**
 
 This project taught me how to think from a customers 
 perspective rather than just making things look nice. 
